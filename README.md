@@ -4,6 +4,7 @@ This is the website of game "Monopoly" in NTUEE camp for freshman!
 
 2022: By rayray2002, jerry1249756 and hackhaha1\
 2023: By lin-1214
+2024: By jass921026
 
 ## Development
 ### Install packages
